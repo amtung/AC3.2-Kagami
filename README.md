@@ -11,5 +11,3 @@ We know you will have as much fun as we did building this!
 https://medium.com/@amtung/building-your-own-smart-mirror-for-100-9e69a4c9f7a
 - How to configure a Raspberry Pi 3 on a Mac -
 https://medium.com/@amtung/how-to-configure-raspberry-pi-3-on-a-mac-b6006858f6fa
-
-"Change the way you see yourself."  - Kagami
